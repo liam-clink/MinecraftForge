@@ -4,7 +4,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the GNU Lesser Public License v2.1
  * which accompanies this distribution, and is available at
- * http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * 
  * Contributors:
  *     cpw - implementation
@@ -24,10 +24,10 @@ import cpw.mods.fml.common.LoaderException;
 
 /**
  * Parses version strings according to the specification here:
- * http://docs.codehaus.org/display/MAVEN/Versioning
+ * https://docs.codehaus.org/display/MAVEN/Versioning
  * and allows for comparison of versions based on that document.
  * Bounded version specifications are defined as
- * http://maven.apache.org/plugins/maven-enforcer-plugin/rules/versionRanges.html
+ * https://maven.apache.org/plugins/maven-enforcer-plugin/rules/versionRanges.html
  *
  * Borrows heavily from maven version range management code
  *

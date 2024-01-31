@@ -40,7 +40,7 @@ import ibxm.ScreamTracker3;
  *<br>
  *    4) You are not required to give me credit for this class in any derived
  *    work, but if you do, you must also mention my website:
- *    http://www.paulscode.com
+ *    https://www.paulscode.com
  *<br>
  *    5) I the author will not be responsible for any damages (physical,
  *    financial, or otherwise) caused by the use if this class or any portion
@@ -52,11 +52,11 @@ import ibxm.ScreamTracker3;
  * <br><br>
  *    Author: Paul Lamb
  * <br>
- *    http://www.paulscode.com
+ *    https://www.paulscode.com
  *</b><br><br>
  *<b>
  *    This software is based on or using the IBXM library available from
- *    http://www.geocities.com/sunet2000/
+ *    https://www.geocities.com/sunet2000/
  *</b><br><br>
  *<br><b>
  * IBXM is copyright (c) 2007, Martin Cameron, and is licensed under the BSD

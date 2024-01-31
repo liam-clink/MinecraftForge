@@ -416,7 +416,7 @@ public class ForgeHooks
             // Add schema so client doesn't crash.
             if (URI.create(url).getScheme() == null)
             {
-                url = "http://" + url;
+                url = "https://" + url;
             }
 
             // Set the click event and append the link.

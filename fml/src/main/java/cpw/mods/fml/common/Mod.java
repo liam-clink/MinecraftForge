@@ -4,7 +4,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the GNU Lesser Public License v2.1
  * which accompanies this distribution, and is available at
- * http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  * Contributors:
  *     cpw - implementation
@@ -109,7 +109,7 @@ public @interface Mod
 
     /**
      * A version range specifying compatible save version information. If your mod follows good version numbering
-     * practice <a href="http://semver.org/">Like this (http://semver.org/)</a> then this should be sufficient.
+     * practice <a href="https://semver.org/">Like this (https://semver.org/)</a> then this should be sufficient.
      *
      * Advanced users can specify a {@link SaveInspectionHandler} instead.
      * @return A version range as specified by the maven version range specification or the empty string

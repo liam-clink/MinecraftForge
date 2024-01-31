@@ -4,7 +4,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the GNU Lesser Public License v2.1
  * which accompanies this distribution, and is available at
- * http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  * Contributors:
  *     cpw - implementation
@@ -33,7 +33,7 @@ import cpw.mods.fml.common.FMLLog;
 /**
  * Topological sort for mod loading
  *
- * Based on a variety of sources, including http://keithschwarz.com/interesting/code/?dir=topological-sort
+ * Based on a variety of sources, including https://keithschwarz.com/interesting/code/?dir=topological-sort
  * @author cpw
  *
  */

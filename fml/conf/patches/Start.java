@@ -58,7 +58,7 @@ public class Start
     
     private static String[] getSession(String username, String password) throws UnsupportedEncodingException
     {
-        String parameters = "http://login.minecraft.net/?user=" + URLEncoder.encode(username, "UTF-8") +
+        String parameters = "https://login.minecraft.net/?user=" + URLEncoder.encode(username, "UTF-8") +
                 "&password=" + URLEncoder.encode(password, "UTF-8") +
                 "&version=" + 13;
         String result = openUrl(parameters);

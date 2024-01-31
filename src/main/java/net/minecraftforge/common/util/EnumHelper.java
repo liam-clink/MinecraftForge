@@ -136,7 +136,7 @@ public class EnumHelper
     /*
      * Everything below this is found at the site below, and updated to be able to compile in Eclipse/Java 1.6+
      * Also modified for use in decompiled code.
-     * Found at: http://niceideas.ch/roller2/badtrash/entry/java_create_enum_instances_dynamically
+     * Found at: https://niceideas.ch/roller2/badtrash/entry/java_create_enum_instances_dynamically
      */
     private static Object getConstructorAccessor(Class<?> enumClass, Class<?>[] additionalParameterTypes) throws Exception
     {
